@@ -46,7 +46,7 @@ export default function FlashCardViewer({ topic }) {
     };
 
     const renderQuestion = (question, topic) => {
-        if (topic === 'biology') {
+        if (topic === 'Биология') {
             return (
                 <img
                     src={`../images/${question}`}

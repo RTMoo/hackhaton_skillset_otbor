@@ -1,5 +1,5 @@
 export const data = {
-  "math": [
+  "Математика": [
     {
       "question": "Формула Герона?",
       "answer": "$$S = \\sqrt{p(p - a)(p - b)(p - c)}$$"
@@ -41,7 +41,7 @@ export const data = {
       "answer": "$$S = \\frac{n(n + 1)}{2}$$"
     }
   ],
-  "biology": [
+  "Биология": [
     {
       "question": "zebra.jpg",
       "answer": "Зебра"
@@ -84,7 +84,7 @@ export const data = {
     }
   ],
 
-  "physics": [
+  "Физика": [
     {
       "question": "Второй закон Ньютона?",
       "answer": "$$F = ma$$"
@@ -125,7 +125,7 @@ export const data = {
       "question": "Закон Архимеда?",
       "answer": "$$F_{\\text{арх}} = \\rho g V$$"
     }],
-  "informatics": [
+  "Информатика": [
     {
       "question": "Что такое переменная?",
       "answer": "Именованная область памяти, в которой хранится значение."
